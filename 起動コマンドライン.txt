@@ -1,0 +1,4 @@
+#デスクトップにフォルダを置いて、仮想環境もデスクトップにあるという前提でのコマンドラインです。データを入れて、ブラウザ上でstremlitが走るまでを一括で行います。
+
+cd desktop && . kasou/bin/activate && cd rundiary && python3 rundiary.py &&  streamlit run image.py
+
