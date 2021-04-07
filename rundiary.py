@@ -22,9 +22,12 @@ weekday=dt_now.strftime('%A')
 
 
 
-with open('rundiary.csv','a') as f:
-    writer = csv.writer(f)
+with open('rundiary.csv','a',newline='') as f:
+    writer = csv.writer(f,lineterminator='\n')
     #次の行は初回登録のみ。２回目以降の登録時はコメントアウト！！
     #writer.writerow(['日付','曜日','距離','タイム','ペース','スパン','コンディション','感想'])
     writer.writerow([str(dt),str(weekday),str(distance),str(time),str(pace),str(span),str(condition),str(comment)])
+    
     f.close()
+
+ 
