@@ -5,6 +5,6 @@
 
 それをもって機械学習で最適な距離やペース、スパンを導いて最適化を目指します！
 
-#2021年4月6日追記　Streamlitで間単にデプロイできるサービスがあったのでデプロイ
+#2021年4月6日追記　Streamlitで間単にデプロイできるサービスがあったのでデプロイ（chromeで動作確認ずみ）
 
 https://share.streamlit.io/youichiokuda/rundiary/main/image.py
