@@ -9,6 +9,6 @@
 
 https://share.streamlit.io/youichiokuda/rundiary/main/image.py
 
-#2021年4月8日追記　streamlitのデプロイがおかしいのでherokuでデプロイ
+#2021年4月8日追記　streamlitのデプロイがおかしいのでherokuでデプロイ。（ちなみにちょっと前まで「git push heroku master」でpushできたけど最近仕様が変わって、「git push heroku main」でpush。）
 
 https://secret-plains-60328.herokuapp.com/
