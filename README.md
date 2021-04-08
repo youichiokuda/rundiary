@@ -8,3 +8,7 @@
 #2021年4月6日追記　Streamlitで間単にデプロイできるサービスがあったのでデプロイ（chromeで動作確認ずみ）
 
 https://share.streamlit.io/youichiokuda/rundiary/main/image.py
+
+#2021年4月8日追記　streamlitのデプロイがおかしいのでherokuでデプロイ
+
+https://secret-plains-60328.herokuapp.com/
